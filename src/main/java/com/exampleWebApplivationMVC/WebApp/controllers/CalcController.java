@@ -18,4 +18,5 @@ public class CalcController {
     public String chart(Model model){
         return "chart";
     }
+
 }
